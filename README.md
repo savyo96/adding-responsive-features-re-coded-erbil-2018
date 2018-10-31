@@ -4,7 +4,7 @@
 
 In this code along exercise we will make our layout responsive using CSS media
 queries. All the files you need to follow along are provided and opening this
-code along on the in-browser IDE will fork and clone down a copy for you, but
+code along on the in-browser IDE will fork and clone down a learn but
 if you would like to continue working from your personal `exceptional-realty`
 repository:
 
